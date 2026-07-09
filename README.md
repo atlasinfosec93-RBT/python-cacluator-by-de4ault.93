@@ -63,13 +63,7 @@ Enter second number: 5
 Result: 15
 ```
 
-## What I Learned
 
-- Working with user input
-- Using conditional statements
-- Performing arithmetic operations
-- Writing clean Python code
-- Using Git and GitHub for version control
 
 ## Future Improvements
 
